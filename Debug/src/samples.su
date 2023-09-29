@@ -1,0 +1,5 @@
+samples.c:3:6:samplesConfig	120	static
+samples.c:89:6:initTimerADC	24	static
+samples.c:112:6:TIM5_IRQHandler	8	static
+samples.c:132:6:samplesCopyConfig	72	static
+samples.c:163:8:getMeanPos	32	static

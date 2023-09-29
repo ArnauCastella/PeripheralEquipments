@@ -1,0 +1,11 @@
+LCD.c:6:5:checkLimits	16	static
+LCD.c:11:10:ARGBtoInt	16	static
+LCD.c:16:6:changeLayer	16	static
+LCD.c:27:7:SetPixel	24	static
+LCD.c:37:7:DrawHorizontalLine	40	static
+LCD.c:54:7:DrawVerticalLine	40	static
+LCD.c:72:7:ClearScreen	32	static
+LCD.c:81:7:DrawRectangle	48	static
+LCD.c:90:6:drawBackground	24	static
+LCD.c:107:6:initLCD	8	static
+LCD.c:141:6:displaySamples	32	static
